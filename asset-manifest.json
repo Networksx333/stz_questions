@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Networksx333/stz_questions.git/static/css/main.16e66807.css",
+    "main.js": "/Networksx333/stz_questions.git/static/js/main.21f7c07e.js",
+    "static/media/background.jpg": "/Networksx333/stz_questions.git/static/media/background.1f7759b2b354cbc91d64.jpg",
+    "index.html": "/Networksx333/stz_questions.git/index.html",
+    "main.16e66807.css.map": "/Networksx333/stz_questions.git/static/css/main.16e66807.css.map",
+    "main.21f7c07e.js.map": "/Networksx333/stz_questions.git/static/js/main.21f7c07e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16e66807.css",
+    "static/js/main.21f7c07e.js"
+  ]
+}
