@@ -2,7 +2,7 @@
   "name": "questions-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Networksx333/stz_questions.git",
+  "homepage": "https://Networksx333.github.io/stz_questions/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
